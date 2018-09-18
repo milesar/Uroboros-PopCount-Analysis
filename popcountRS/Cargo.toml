@@ -1,0 +1,12 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["milesar <adam.miles@utah.edu>"]
+
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = 3
+
+[dependencies]
+lazy_static = "*"

@@ -1,0 +1,11 @@
+136.300000 ns / op : popcount_1_data
+354.300000 ns / op : popcount_1_control
+30.800000 ns / op : popcount_4_data
+201.500000 ns / op : popcount_4_control
+17.000000 ns / op : popcount_8_data
+14.700000 ns / op : popcount_16_data
+126.100000 ns / op : popcount_kernighan
+7.900000 ns / op : popcount64a
+7.100000 ns / op : popcount64b
+4.500000 ns / op : popcount64c
+3.300000 ns / op : popcount64_fast

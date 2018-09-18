@@ -1,0 +1,3 @@
+/Users/adam/Box Sync/milesar/CS 6015/poptests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adam/Box Sync/milesar/CS 6015/poptests/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/Box Sync/milesar/CS 6015/poptests/cmake-build-debug/CMakeFiles/poptests.dir
